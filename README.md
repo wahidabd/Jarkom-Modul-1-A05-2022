@@ -50,3 +50,6 @@
 ![Gambar 2.4](./images/2.4.jpg)
 
 > Judul TA = **Evaluasi unjuk kerja User Space Filesystem (FUSE)**
+<hr> <br>
+
+
