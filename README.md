@@ -89,3 +89,15 @@
 <hr> <br>
 
 ### 6. Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id !
+
+<br>
+
+> Langkah pengerjaan
+- Ping lipi.go.id, dapat IP 203.160.128.158
+
+![Gambar 6.1](./images/6.1.jpg)
+
+- Ketikkan command **ip.dst == 203.160.128.158**
+
+![Gambar 6.2](./images/6.2.jpg)
+
