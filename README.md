@@ -103,7 +103,7 @@
 
 <hr> <br>
 
-### 6. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+### 7. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 
 <br>
 
@@ -116,3 +116,9 @@
 
 ![Gambar 7.2](./images/7.2.jpg)
 
+<hr> <br>
+
+### 7. Telusuri aliran paket dalam file .pcap yang diberikan, cari informasi berguna berupa percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan praktikum.
+
+> Langkah pengerjaan
+- Merujuk pada soal no 9 yang ada ekstensi des3 dengan ini kami mencari percakapan command frame matches “des3
