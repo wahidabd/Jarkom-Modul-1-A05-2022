@@ -101,3 +101,18 @@
 
 ![Gambar 6.2](./images/6.2.jpg)
 
+<hr> <br>
+
+### 6. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+
+<br>
+
+> Langkah pengerjaan
+- Cek ping devices terlebih dahulu
+
+![Gambar 7.1](./images/7.1.jpg)
+
+- Ketikkan command **ip.src == IP kalian**
+
+![Gambar 7.2](./images/7.2.jpg)
+
