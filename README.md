@@ -53,3 +53,39 @@
 <hr> <br>
 
 
+### 3. Filter sehingga wireshark hanya menampilkan paket yang menuju port 80!
+
+
+<br>
+
+> Langkah pengerjaan
+- Ketikkan command **tcp.dstport == 80**
+
+![Gambar 3.1](./images/3.1.jpg)
+
+<hr> <br>
+
+### 4. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 21
+
+
+<br>
+
+> Langkah pengerjaan
+- Ketikkan command **tcp.srcport == 21**
+
+![Gambar 4.1](./images/4.1.jpg)
+
+<hr> <br>
+
+### 5. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 443!
+
+<br>
+
+> Langkah pengerjaan
+- Ketikkan command **tcp.srcport == 443**
+
+![Gambar 5.1](./images/5.1.jpg)
+
+<hr> <br>
+
+### 6. Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id !
